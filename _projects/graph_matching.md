@@ -1,7 +1,7 @@
 ---
 title: "Graph Matching"
 excerpt: "Graph Matching projects"
-collection: portfolio
+collection: projects
 ---
 
 
