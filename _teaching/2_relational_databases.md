@@ -2,9 +2,8 @@
 title: "Relational Databases (COMP 2400)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/relational_databases
+permalink: /teaching/2_relational_databases
 venue: "School of Computing, The Australian National University"
-date: 2025-12-25
 location: "Canberra, Australia"
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: "Artificial Intelligence (COMP 3620)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/artificial_intelligence
+type: "Tutor"
+permalink: /teaching/1_artificial_intelligence
 venue: "School of Computing, The Australian National University"
-date: 2025-12-25
 location: "Canberra, Australia"
 ---
 
