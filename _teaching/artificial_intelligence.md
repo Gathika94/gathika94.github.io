@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/artificial_intelligence
 venue: "School of Computing, The Australian National University"
-date: 
+date: 2025-12-25
 location: "Canberra, Australia"
 ---
 
