@@ -4,7 +4,6 @@ collection: teaching
 type: "Tutor"
 permalink: /teaching/1_artificial_intelligence
 venue: "School of Computing, The Australian National University"
-date: 2025
 location: "Canberra, Australia"
 ---
 
