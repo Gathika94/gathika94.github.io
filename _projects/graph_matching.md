@@ -1,5 +1,5 @@
 ---
-title: "Graph Matching"
+title: "Deep Learning for Graph Matching"
 excerpt: " Graph Matching aims to find node correspondence between two graphs, where a node in one graph can be matched with at most one node in the other graph. It has applications in many domains including computer vision and bio-informatics. <img src='/images/gm2.png'>"
 collection: projects
 ---
